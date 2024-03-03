@@ -1,4 +1,4 @@
-# Working with world database using SQL
+# Working on world database using SQL
 World Database Project 🌍
 Overview ℹ️
 This project utilizes the World Database, which includes tables for countries, languages, and cities, to demonstrate various Data Query Language (DQL) commands and SQL operations. The World Database is implemented using MySQL, a popular relational database management system (RDBMS) known for its ease of use and scalability.
